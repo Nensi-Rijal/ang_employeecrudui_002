@@ -1,27 +1,20 @@
-# EmployeeCrudUi
+#employeecrudui
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+This is an employeecrud ui project and to be able to run this project in your device:
 
-## Development server
+- you need to have node.js installed,
+- you need to install angular cli,
+- npm install,
+- to run this project use `ng serve` command,
+- to use the api used in this project, you need to clone this `https://github.com/Nensi-Rijal/asp.netcore_employeecrudapi_001` project in your device.
+- Bootstrap is used as a CSS framework.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+  This project is done taking the guide from `https://www.youtube.com/watch?v=eq10jE7C1-Y&ab_channel=LEARNINGPARTNER](https://www.youtube.com/watch?v=eCbaZixsP-s&ab_channel=SameerSaini`
 
-## Code scaffolding
+This is the image preview 
+![image](https://github.com/Nensi-Rijal/ang_employeecrudui_002/assets/65943072/acb7e5ca-37f5-4344-9215-296308ebc51e)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
